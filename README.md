@@ -15,6 +15,9 @@ Each game asks questions you need to answer. You win the game if you give three 
 $ brain-calc
 ```
 * Progression. Find the missing number in a sequence. 
+```
+$ brain-progression
+```
 * Definition of the parity of a number.
 ```
 $ brain-even
@@ -38,4 +41,5 @@ $ npm ci
 ### Calculator ###
 [![asciicast](https://asciinema.org/a/2Kc3QFPnTHI27N3tZYKc3dczk.svg)](https://asciinema.org/a/2Kc3QFPnTHI27N3tZYKc3dczk)
 
-
+### Progression ###
+[![asciicast](https://asciinema.org/a/tFCOM4wT4pePUs6QxOa9H3nX8.svg)](https://asciinema.org/a/tFCOM4wT4pePUs6QxOa9H3nX8)
