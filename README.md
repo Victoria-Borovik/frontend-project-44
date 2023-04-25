@@ -30,5 +30,6 @@ $ npm ci
 ```
 
 ### Definition of the parity of a number ###
-<script async id="asciicast-OroyMRLS9ESslEiVDyAmmJrYz" src="https://asciinema.org/a/OroyMRLS9ESslEiVDyAmmJrYz.js"></script>
+[![asciicast](https://asciinema.org/a/OroyMRLS9ESslEiVDyAmmJrYz.svg)](https://asciinema.org/a/OroyMRLS9ESslEiVDyAmmJrYz)
+
 
