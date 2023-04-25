@@ -17,7 +17,7 @@ const gcd = () => {
   const operand2 = getRandomNumber(1, 25);
   const question = `${operand1} ${operand2}`;
   const rightAnswer = getGcd(operand1, operand2);
-  return [question, rightAnswer];
+  return [question, String(rightAnswer)];
 };
 
 export default () => runGame(gameRule, gcd);
