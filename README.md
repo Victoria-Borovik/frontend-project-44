@@ -27,6 +27,9 @@ $ brain-even
 $ brain-gcd
 ```
 * Definition of the primality of a number.
+```
+$ brain-prime
+```
 
 ## Requirements ##
 - Node.js version 18
@@ -49,3 +52,6 @@ $ npm ci
 
 ### Definition of the greatest common divider ###
 [![asciicast](https://asciinema.org/a/IYd8w1RAa3PlwW1dsRerIgnA7.svg)](https://asciinema.org/a/IYd8w1RAa3PlwW1dsRerIgnA7)
+
+### Definition of the primality of a number ###
+[![asciicast](https://asciinema.org/a/I0Tx0vjfoNwmh4iHNCcxGtVXn.svg)](https://asciinema.org/a/I0Tx0vjfoNwmh4iHNCcxGtVXn)
