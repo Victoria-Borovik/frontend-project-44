@@ -13,6 +13,9 @@ Each game asks questions you need to answer. You win the game if you give three 
 * Calculator. Simple arithmetic expressions needed to be figured.
 * Progression. Find the missing number in a sequence. 
 * Definition of the parity of a number.
+```
+$ brain-even
+```
 * Definition of the greatest common divider 
 * Definition of the primality of a number.
 
@@ -25,3 +28,7 @@ $ git clone git@github.com:Victoria-Borovik/frontend-project-44.git
 $ cd frontend-project-44
 $ npm ci
 ```
+
+### Definition of the parity of a number ###
+<script async id="asciicast-OroyMRLS9ESslEiVDyAmmJrYz" src="https://asciinema.org/a/OroyMRLS9ESslEiVDyAmmJrYz.js"></script>
+
