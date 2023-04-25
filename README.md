@@ -22,7 +22,10 @@ $ brain-progression
 ```
 $ brain-even
 ```
-* Definition of the greatest common divider. 
+* Definition of the greatest common divider.
+```
+$ brain-gcd
+```
 * Definition of the primality of a number.
 
 ## Requirements ##
@@ -43,3 +46,6 @@ $ npm ci
 
 ### Progression ###
 [![asciicast](https://asciinema.org/a/tFCOM4wT4pePUs6QxOa9H3nX8.svg)](https://asciinema.org/a/tFCOM4wT4pePUs6QxOa9H3nX8)
+
+### Definition of the greatest common divider ###
+[![asciicast](https://asciinema.org/a/IYd8w1RAa3PlwW1dsRerIgnA7.svg)](https://asciinema.org/a/IYd8w1RAa3PlwW1dsRerIgnA7)
