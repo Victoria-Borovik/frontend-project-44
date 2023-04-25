@@ -21,7 +21,7 @@ Each game asks questions you need to answer. You win the game if you give three 
 
 ## Install ##
 ```
-$ git clone
+$ git clone git@github.com:Victoria-Borovik/frontend-project-44.git
 $ cd hexlet-first-project
 $ npm ci
 ```
