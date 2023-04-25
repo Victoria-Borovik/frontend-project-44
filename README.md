@@ -22,6 +22,6 @@ Each game asks questions you need to answer. You win the game if you give three 
 ## Install ##
 ```
 $ git clone git@github.com:Victoria-Borovik/frontend-project-44.git
-$ cd frontend-project-44.git
+$ cd frontend-project-44
 $ npm ci
 ```
