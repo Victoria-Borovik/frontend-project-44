@@ -21,7 +21,7 @@ const getCalcResult = (operant1, operant2, operation) => {
       result = operant1 * operant2;
       break;
     default:
-      result = null;
+      throw new Error('Function error');
   }
   return result;
 };
