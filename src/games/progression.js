@@ -16,9 +16,9 @@ const getProgressionArray = () => {
 
 const progression = () => {
   const progressionArray = getProgressionArray();
-  const itemForQuestion = getRandomNumber(1, progressionArray.length - 1);
-  const rightAnswer = progressionArray[itemForQuestion];
-  progressionArray[itemForQuestion] = '..';
+  const indexForQuestion = getRandomNumber(1, progressionArray.length - 1);
+  const rightAnswer = progressionArray[indexForQuestion];
+  progressionArray[indexForQuestion] = '..';
   const question = progressionArray.join(' ');
   return [question, String(rightAnswer)];
 };
